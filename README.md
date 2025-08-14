@@ -1,5 +1,4 @@
 # Full Stack AI Fianace Platform with Next JS, Railway, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI
-## https://youtu.be/egS6fnZAdzk
 
 ### Make sure to create a `.env` file with following variables -
 
